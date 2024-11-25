@@ -15,7 +15,7 @@ The diagram below illustrates the interchange of assets between layers, focusing
 
 It depicts several scenarios, such as bridging an ERC20 token from mainnet to another ERC20 token in LY, bridging L1 ETH to the LY gas token, or bridging a wrapped ERC20 token living on LX to LY ETH.
 
-![Unfied bridge exchanges](img/how-to/gas-token-img/ulxly-exchanges.drawio.png)
+![Unified bridge exchanges](img/how-to/gas-token-img/ulxly-exchanges.drawio.png)
 
 ## Set up and prerequisites
 
@@ -155,7 +155,7 @@ The first derived private key from the `code...quality` mnemonic is
 
 ### Transfer token
 
-1. To complete the test, lets transfer some of the value on L2 to another address.
+1. To complete the test, let's transfer some of the value on L2 to another address.
 
     ![Transfer to another L2 address](img/how-to/gas-token-img/07_bridge.png)
 
@@ -165,7 +165,7 @@ The first derived private key from the `code...quality` mnemonic is
 
 ### Withdraw the token
 
-1. After initiating a withdraw transaction, wait for the transaction data to be proven on L1.
+1. After initiating a withdrawal transaction, wait for the transaction data to be proven on L1.
 
     ![Balance of receiving account](img/how-to/gas-token-img/11_bridge.png)
 
